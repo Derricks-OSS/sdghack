@@ -1,0 +1,2 @@
+# sdghack
+sdg hackathon nyc
