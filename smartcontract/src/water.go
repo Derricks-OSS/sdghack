@@ -42,7 +42,7 @@ func getWater(owner []byte, month uint32, year uint32) uint64 {
 }
 
 func getKey(keyName []byte, owner []byte, month uint32, year uint32) []byte {
-	return append(append(append(BALANCE_OIL_KEY, owner...), strconv.Itoa(int(month))...),
+	return append(append(append(keyName, owner...), strconv.Itoa(int(month))...),
 		strconv.Itoa(int(year))...)
 }
 
