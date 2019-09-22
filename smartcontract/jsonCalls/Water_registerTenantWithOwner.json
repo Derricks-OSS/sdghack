@@ -1,0 +1,14 @@
+{
+    "ContractName": "Water",
+    "MethodName": "registerTenantWithOwner",
+    "Arguments": [
+      {
+        "Type": "bytes",
+        "Value": "0x2b27F9eB4Fe993E9A1748D8EB742163b396E241D"
+      },
+      {
+        "Type": "bytes",
+        "Value": "0x7c9C6Ef4ED339Da00b946714F2FdDC5D8b1b4e48"
+      }
+    ]
+  }
