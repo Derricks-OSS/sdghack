@@ -1,0 +1,22 @@
+{
+    "ContractName": "Water",
+    "MethodName": "addWater",
+    "Arguments": [
+      {
+        "Type": "bytes",
+        "Value": "0x2b27F9eB4Fe993E9A1748D8EB742163b396E241D"
+      },
+      {
+        "Type": "uint32",
+        "Value": "1"
+      },
+      {
+        "Type": "uint32",
+        "Value": "2019"
+      },      
+      {
+        "Type": "uint64",
+        "Value": "25"
+      }
+    ]
+  }
